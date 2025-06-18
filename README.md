@@ -11,7 +11,7 @@ sprouting internationally, the IT manager has approved an internal security audi
 risks and ensure compliance w/ relevant standards, including (but not limited to) PCI, DSS, and GDPR.
 
 ## Contents of this repository
--'audit-report.md': Controls and compliance checklist, summary of NIST CSF reference
+-'audit-report.md': Controls and compliance checklist, summary of assets, scope, goals.
 -'findings-and-vulnerabilities.md': Summary of risks identified throughout this audit
 -'recommendations.md': Further, actionable steps recommended to be taken to improve security.
 

@@ -1,4 +1,4 @@
-This repository involves a security audit for the simulated environment of Botum Toys. This environment is an extension
+This repository involves a security audit for the simulated environment of Botium Toys. This environment is an extension
 of the Google Cybersecurity Certificate coursework.
 
 This audit will help ensure that security checks are made, to help monitor threats, risks, or vulnerabilities 
